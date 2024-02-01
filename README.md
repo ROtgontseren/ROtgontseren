@@ -69,5 +69,5 @@
 
 </p>
 <p align="center">
-  Credits: [Elbeg Amarbayasgalan](https://github.com/amar9elbeg)
+  Credits: [Radnaabazar Otgontseren](https://github.com/Rotgontseren)
 </p>
