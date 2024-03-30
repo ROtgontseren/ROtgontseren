@@ -12,7 +12,7 @@
      Pinecone • Leap developer • Student
      Html • Css •JavaScript • TypeScript 
      React • Next • NodeJs • ExpressJs
-     Movie • Games • Anime • Code
+     tailwind • Mui • swiperjs • Code
 </pre>
 </div>
 ### ⚙️ &nbsp;GitHub Analytics
