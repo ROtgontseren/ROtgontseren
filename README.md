@@ -28,7 +28,7 @@
 </a>
 </p>
 <div align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Rotgontseren)  
+  <div align="center" justify="center" > <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Rotgontseren)   </div>
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rotgontseren&theme=radical&hide_border=true)
 
