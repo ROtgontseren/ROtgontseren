@@ -3,12 +3,6 @@
 <h4 align="center">Developer Software</h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadwolfghosttours.com%2F&psig=AOvVaw3IypimKYxRi6FTu0q6Xmer&ust=1711867446833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjs7pWxm4UDFQAAAAAdAAAAABAJ"
-       alt="snake" /></a>
-</div>
-
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ### 🛠 &nbsp;Tech Stack
