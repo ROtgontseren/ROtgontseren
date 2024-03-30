@@ -29,8 +29,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amar9elbeg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amar9elbeg&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rotgontseren&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rotgontseren&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -38,9 +38,9 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amar9elbeg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rotgontsere)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amar9elbeg&theme=radical&hide_border=true)
+[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rotgontseren&theme=radical&hide_border=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amar9elbeg)  
 
@@ -52,18 +52,10 @@
 </p>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/elbeg-amar" target="_blank">
+<a href="https://www.linkedin.com/in/Rotgontseren" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:elbeg@nestsolutions.llc" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/amar9elbeg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-
-
-<p align=center>
-   <img  src="https://github.com/amar9elbeg/amar9elbeg/assets/89896446/3bd63823-2f91-41f3-a116-3b365249ba3f"/>
-</p>
-
-
+  <a href="https://github.com/Rotgontseren" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 <p align="center">
 -----
 
