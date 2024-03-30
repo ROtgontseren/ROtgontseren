@@ -3,7 +3,7 @@
 <h4 align="center">Developer Software</h4>
 </div>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img align="right" src="https://t3.ftcdn.net/jpg/05/00/85/04/360_F_500850425_KGzvN3zMn2Uif4Xa1eQDbV3bqgTNzA4H.jpg" alt="itachi" />
 
 ### 🛠 &nbsp;
 <pre style="text-align:center">
