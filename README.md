@@ -5,16 +5,13 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-### 🛠 &nbsp;Tech Stack
-
-<div align="center">
-   <pre style="text-align:center">
+### 🛠 &nbsp;
+<pre style="text-align:center">
      Pinecone • Leap developer • Student
-     Html • Css •JavaScript • TypeScript 
-     React • Next • NodeJs • ExpressJs
      tailwind • Mui • swiperjs • Code
+     Html • Css  • NextJS  • ReactJS 
+     JavaScript  • NodeJs  • ExpressJs
 </pre>
-</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
