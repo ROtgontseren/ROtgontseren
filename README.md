@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<div align="center" width="400em">
+<div align="center" width="600em">
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rotgontseren&theme=radical&hide_border=true)
 
