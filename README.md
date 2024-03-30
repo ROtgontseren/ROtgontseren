@@ -8,9 +8,9 @@
 ### 🛠 &nbsp;
 <pre style="text-align:center">
      Pinecone • Leap developer • Student
-     tailwind • Mui • swiperjs • Code
+     Tailwind • Mui • SwiperJS • Code
      Html • Css  • NextJS  • ReactJS 
-     JavaScript  • NodeJs  • ExpressJs
+     JavaScript  • NodeJS  • ExpressJS
 </pre>
 ### ⚙️ &nbsp;GitHub Analytics
 
